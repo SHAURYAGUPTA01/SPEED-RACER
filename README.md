@@ -1,2 +1,2 @@
-# C42RV_SpeedRacer_StudentActivity
-Student Activity
+# Hope You Enjoy The Game
+Multiplayer Car Racing Game Developed By SHAURYA GUPTA
